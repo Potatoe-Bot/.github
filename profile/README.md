@@ -4,5 +4,5 @@ Welcome to the Potatoe Bot (PBOT) GitHub Repository, which houses all of PBOT's 
 
 ## Links
 
-- ### [🌍 Website](https://pb.anaxes.xyz): PBOT's website.
-- ### [🛰 API](https://pbapi.anaxes.xyz): PBOT's API.
+- ### [🌍 Website](https://pb.anaxes.codes): PBOT's website.
+- ### [🛰 API](https://jimmy.anaxes.codes): PBOT's API.
